@@ -1,0 +1,5 @@
+{
+  "port": 4004,
+  "env": "development",
+  "dsn": "root:password@tcp(localhost:3306)/afternoontea?parseTime=true&tls=false"
+}
